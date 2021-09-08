@@ -1,0 +1,3 @@
+2021-09-07 15:30:41,868 INFO [com.capgemini.log.LogDemo] - Logging information for LogDemo
+2021-09-07 15:30:41,869 WARN [com.capgemini.log.LogDemo] - This is last warning
+2021-09-07 15:30:41,869 ERROR [com.capgemini.log.LogDemo] - Error occured due to false value 
